@@ -1,2 +1,2 @@
 # my-own-chatbot
-an assignment of Introduction to generative AI
+使用方式與一般聊天機器人相同。
